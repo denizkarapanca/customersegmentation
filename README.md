@@ -4,6 +4,7 @@ RFM Segmentation
 Synthetic dataset about custumer segmentation with 500k rows.
 
 Variables
+
 customer_id = The unique customer ID
 
 qtt_order = The order of customers
